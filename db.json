@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "appName": "foo1", "pkgName": "com.test.foo1" },
+    { "id": 1, "appName": "foo1", "pkgName": "com.test.foo2" },
     { "id": 2, "appName": "foo2", "pkgName": "com.test.foo2" },
     { "id": 3, "appName": "foo3", "pkgName": "com.test.foo3" }
   ],
