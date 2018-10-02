@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "appName": "foo1", "pkgName": "com.test.foo1", "ver": 1},
+    { "id": 1, "appName": "foo1", "pkgName": "com.airads.fdflyer", "ver": 1},
     { "id": 2, "appName": "foo2", "pkgName": "com.test.foo2", "ver": 2}
   ],
   "comments": [
