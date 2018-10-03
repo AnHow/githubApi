@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "appInfoList": [
     { "id": 1,
       "appName": "foo1",
       "pkgName": "com.test.foo1",
@@ -20,7 +20,10 @@
     }
   ],
 
-  "profile": {
-    "name": "com.airads.fdflyer"
+  "launchApp": {
+    "id": 1,
+    "appName": "airFly",
+    "pkgName": "com.airads.fdflyer",
+    "ver": 1,
   }
 }
