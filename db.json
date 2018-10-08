@@ -10,7 +10,7 @@
         "items": {
             "appInfoList": [
                 {"id": 1, "appName": "foo1", "pkgName": "com.test.foo1", "ver": 1, "link": "https://drive.google.com/uc?authuser=0&id=1H9WnXy6j5hAlQTvYu9rFkcGKwpEKfQmw&export=download"},
-                {"id": 2, "appName": "AD Starter", "pkgName": "com.doubleservice.adstarter.demo", "ver": 2, "link": "https://drive.google.com/uc?authuser=0&id=1UUCK1uGKlQ7oX6ZRF64hIcZlXGgauYGQ&export=download"}
+                {"id": 2, "appName": "AD Starter", "pkgName": "com.doubleservice.adstarter", "ver": 2, "link": "https://drive.google.com/uc?authuser=0&id=1UUCK1uGKlQ7oX6ZRF64hIcZlXGgauYGQ&export=download"}
             ]
         }
     }
