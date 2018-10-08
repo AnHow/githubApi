@@ -1,8 +1,7 @@
 {
-  "appInfoList": [
-    {"id": 1, "appName": "foo1", "pkgName": "com.test.foo1", "ver": 1, "link": ""},
-    {"id": 2, "appName": "foo2", "pkgName": "com.test.foo2", "ver": 2, "link": "https://drive.google.com/uc?authuser=0&id=1H9WnXy6j5hAlQTvYu9rFkcGKwpEKfQmw&export=download"},
-    {"id": 3, "appName": "funtionTest", "pkgName": "com.test.functiontest", "ver": 3, "link": "https://drive.google.com/uc?authuser=0&id=1UUCK1uGKlQ7oX6ZRF64hIcZlXGgauYGQ&export=download"}
-  ],
-  "launchApp": {"id": 1, "appName": "airFly", "pkgName": "com.airads.fdflyer", "ver": 1}
+  "getDefaultInfo": {"id": 1, "appName": "airFly", "pkgName": "com.airads.fdflyer", "ver": 1},
+  "getAppListInfo": [
+    {"id": 1, "appName": "foo1", "pkgName": "com.test.foo1", "ver": 1, "link": "https://drive.google.com/uc?authuser=0&id=1H9WnXy6j5hAlQTvYu9rFkcGKwpEKfQmw&export=download"},
+    {"id": 2, "appName": "funtionTest", "pkgName": "com.test.functiontest", "ver": 2, "link": "https://drive.google.com/uc?authuser=0&id=1UUCK1uGKlQ7oX6ZRF64hIcZlXGgauYGQ&export=download"}
+  ]
 }
