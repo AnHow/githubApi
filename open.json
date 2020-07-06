@@ -1,0 +1,95 @@
+{
+  "position": {
+    "opening_screen": [
+      {
+        "ad_id": [
+          1457
+        ],
+        "ad_mode": "cpm"
+      }
+    ],
+    "comic_index": [],
+    "comic_list": [],
+    "comic_summary": [],
+    "comic_reader": [],
+    "anime_index": [],
+    "anime_list": [],
+    "animat_player": [],
+    "fiction_index": [],
+    "fiction_list": [],
+    "fiction_reader": [],
+    "info": [],
+    "favorite": []
+  },
+  "ad_mode": {
+    "cpi": [],
+    "cps": [],
+    "cpm": [
+      {
+        "ad_id": 1402,
+        "sdk_id": 1,
+        "limit": null,
+        "countdown": null,
+        "app_name": null,
+        "app_icon": null,
+        "ad_type": "banner",
+        "ad_img": "",
+        "link": "",
+        "charge_type": "CPM",
+        "package_name": null
+      },
+      {
+        "ad_id": 1412,
+        "sdk_id": 1,
+        "limit": null,
+        "countdown": null,
+        "app_name": null,
+        "app_icon": null,
+        "ad_type": "banner",
+        "ad_img": "",
+        "link": "",
+        "charge_type": "CPM",
+        "package_name": null
+      },
+      {
+        "ad_id": 1432,
+        "sdk_id": 1,
+        "limit": null,
+        "countdown": null,
+        "app_name": null,
+        "app_icon": null,
+        "ad_type": "in_stream",
+        "ad_img": "",
+        "link": "",
+        "charge_type": "CPM",
+        "package_name": null
+      },
+      {
+        "ad_id": 1447,
+        "sdk_id": 1,
+        "limit": null,
+        "countdown": null,
+        "app_name": null,
+        "app_icon": null,
+        "ad_type": "banner",
+        "ad_img": "",
+        "link": "",
+        "charge_type": "CPM",
+        "package_name": null
+      },
+      {
+        "ad_id": 1457,
+        "sdk_id": 1,
+        "limit": 3,
+        "countdown": null,
+        "app_name": null,
+        "app_icon": null,
+        "ad_type": "rewarded_video",
+        "ad_img": "",
+        "link": "",
+        "charge_type": "CPM",
+        "package_name": null
+      }
+    ]
+  }
+}
