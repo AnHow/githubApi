@@ -1,11 +1,78 @@
 {
   "position": {
-    
+     "opening_screen": [],
+    "comic_index": [],
+    "comic_list": [],
+    "comic_summary": [],
+    "comic_reader": [
+      {
+        "ad_id": [
+          1382
+        ],
+        "ad_mode": "cpi"
+      },
+      {
+        "ad_id": [
+          1432,
+          1457
+        ],
+        "ad_mode": "cpm"
+      }
+    ],
+    "anime_index": [],
+    "anime_list": [],
+    "animat_player": [],
+    "fiction_index": [],
+    "fiction_list": [],
+    "fiction_reader": [],
+    "info": [],
+    "favorite": []
   },
   "ad_mode": {
-    "cpi": [],
+    "cpi": [
+      {
+        "ad_id": 1382,
+        "sdk_id": null,
+        "limit": null,
+        "countdown": null,
+        "app_name": null,
+        "app_icon": null,
+        "ad_type": "cpi",
+        "ad_img": "https:\/\/uimg.jav101.com\/img5efea07a6e24c.jpg",
+        "link": "https:\/\/www.google.com ",
+        "charge_type": "CPI",
+        "package_name": null
+      }
+    ],
     "cps": [],
-    "cpm": [],
+    "cpm": [
+      {
+        "ad_id": 1432,
+        "sdk_id": 1,
+        "limit": null,
+        "countdown": null,
+        "app_name": null,
+        "app_icon": null,
+        "ad_type": "in_stream",
+        "ad_img": "",
+        "link": "",
+        "charge_type": "CPM",
+        "package_name": null
+      },
+      {
+        "ad_id": 1457,
+        "sdk_id": 1,
+        "limit": 3,
+        "countdown": null,
+        "app_name": null,
+        "app_icon": null,
+        "ad_type": "rewarded_video",
+        "ad_img": "",
+        "link": "",
+        "charge_type": "CPM",
+        "package_name": null
+      }
+    ],
     "mr": []
   }
 }
