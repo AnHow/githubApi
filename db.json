@@ -3,7 +3,22 @@
      "opening_screen": [],
     "comic_index": [],
     "comic_list": [],
-    "comic_summary": [],
+    "comic_summary": [
+      {
+        "ad_id": [
+          1407,
+          1462
+        ],
+        "ad_mode": "cps"
+      },
+      {
+        "ad_id": [
+          1412,
+          1421
+        ],
+        "ad_mode": "mr"
+      }
+    ],
     "comic_reader": [
       {
         "ad_id": [
@@ -44,7 +59,34 @@
         "package_name": null
       }
     ],
-    "cps": [],
+    "cps": [
+      {
+        "ad_id": 1407,
+        "sdk_id": null,
+        "limit": null,
+        "countdown": null,
+        "app_name": null,
+        "app_icon": null,
+        "ad_type": "table_img",
+        "ad_img": "https:\/\/uimg.jav101.com\/img5efedf7a357bf.jpg",
+        "link": "https:\/\/tw.yahoo.com",
+        "charge_type": "CPS",
+        "package_name": null
+      },
+      {
+        "ad_id": 1462,
+        "sdk_id": null,
+        "limit": null,
+        "countdown": null,
+        "app_name": null,
+        "app_icon": null,
+        "ad_type": "table_img",
+        "ad_img": "https:\/\/uimg.jav101.com\/img5efeb310c46a0.jpg",
+        "link": "https:\/\/tw.yahoo.com",
+        "charge_type": "CPS",
+        "package_name": null
+      }
+    ],
     "cpm": [
       {
         "ad_id": 1432,
@@ -73,6 +115,33 @@
         "package_name": null
       }
     ],
-    "mr": []
+    "mr": [
+      {
+        "ad_id": 1412,
+        "sdk_id": null,
+        "limit": null,
+        "countdown": null,
+        "app_name": null,
+        "app_icon": null,
+        "ad_type": "table_img",
+        "ad_img": "https:\/\/uimg.jav101.com\/img5efedf7a357bf.jpg",
+        "link": "https:\/\/tw.yahoo.com",
+        "charge_type": "CPS",
+        "package_name": null
+      },
+      {
+        "ad_id": 1421,
+        "sdk_id": null,
+        "limit": null,
+        "countdown": null,
+        "app_name": null,
+        "app_icon": null,
+        "ad_type": "table_img",
+        "ad_img": "https:\/\/uimg.jav101.com\/img5efeb310c46a0.jpg",
+        "link": "https:\/\/tw.yahoo.com",
+        "charge_type": "CPS",
+        "package_name": null
+      }
+    ]
   }
 }
