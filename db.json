@@ -1,6 +1,19 @@
 {
   "position": {
-     "opening_screen": [],
+    "opening_screen": [
+      {
+        "ad_id": [
+          1382
+        ],
+        "ad_mode": "cpi"
+      },
+      {
+        "ad_id": [
+          1387
+        ],
+        "ad_mode": "cps"
+      }
+    ],
     "comic_index": [],
     "comic_list": [],
     "comic_summary": [
@@ -60,6 +73,19 @@
       }
     ],
     "cps": [
+      {
+        "ad_id": 1387,
+        "sdk_id": null,
+        "limit": null,
+        "countdown": null,
+        "app_name": null,
+        "app_icon": null,
+        "ad_type": "full_img",
+        "ad_img": "https:\/\/uimg.jav101.com\/img5efedeb7c92d3.jpg",
+        "link": "https:\/\/tw.yahoo.com",
+        "charge_type": "CPS",
+        "package_name": null
+      },
       {
         "ad_id": 1407,
         "sdk_id": null,
